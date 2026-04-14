@@ -1,0 +1,5 @@
+{
+  "name": "EDITH AI",
+  "description": "A high-tech futuristic AI interface with a glowing heart core, stats panel, and chat system.",
+  "requestFramePermissions": ["microphone", "camera"]
+}
